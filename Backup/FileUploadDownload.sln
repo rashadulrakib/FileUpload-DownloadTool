@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FileUploadDownload", ".", "{F99BDCFB-E464-40CC-A3D2-1C5F4CA6DE0A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/FileUploadDownload"
+		Debug.AspNetCompiler.PhysicalPath = "..\FileUploadDownload\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\FileUploadDownload\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/FileUploadDownload"
+		Release.AspNetCompiler.PhysicalPath = "..\FileUploadDownload\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\FileUploadDownload\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49699"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F99BDCFB-E464-40CC-A3D2-1C5F4CA6DE0A}.Debug|.NET.ActiveCfg = Debug|.NET
+		{F99BDCFB-E464-40CC-A3D2-1C5F4CA6DE0A}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
